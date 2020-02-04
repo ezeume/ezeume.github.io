@@ -1,0 +1,22 @@
+.navbar-brand {
+    font-style:Times New Roman, Times, serif;
+    background-color: rgb(103, 216, 216);
+    color:white !important;
+}
+
+.section {
+    background-color:rgb(226, 225, 225);
+}
+
+.responsive {
+    width:100%;
+    height:auto;
+}
+
+.col {
+    color:rgb(103, 216, 216);
+}
+
+.container {
+    background-color:white;
+}
