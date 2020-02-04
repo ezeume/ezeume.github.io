@@ -8,10 +8,6 @@
     background-color:rgb(226, 225, 225);
 }
 
-.responsive {
-    width:100%;
-    height:auto;
-}
 
 .col {
     color:rgb(103, 216, 216);
@@ -19,4 +15,15 @@
 
 .container {
     background-color:white;
+}
+
+main {
+    margin-bottom:30px;
+}
+
+@media screen and (max-width: 576px) {
+    .responsive {
+        width:100%;
+        height:auto;
+    }
 }
