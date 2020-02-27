@@ -6,9 +6,9 @@
 .nav{
     color: moccasin;
 }
-.section {
+/* .section {
     background-color:rgb(133, 175, 231);
-}
+} */
 
 
 .col {
@@ -16,21 +16,19 @@
 }
 
 .hero{
-    background-color: rgb(rgb(61, 204, 175));
+    background-color: rgb(236, 242, 245);
 }
-/* .container {
-    background-color:rgb(160, 214, 216);
-} */
-
 .paragraph{
     font-style: Arial, sans-serif;
     font-size: 20px;
     font-weight: bold;
+    color: rgb(38, 110, 96);
 }
 .paragraph2{
     font-style: Arial, sans-serif;
     font-size:18px;
     font-weight: bold;
+    color: rgb(38, 110, 96);
 
 }
 main {
@@ -49,7 +47,14 @@ main {
 }
 .subheader-text{
     text-align: center;
+    color: rgb(38, 110, 96);
 }
 .card-body{
-    background-color: rgb(rgb(102, 241, 214));
+    background-color: rgb(rgb(120, 245, 220));
+}
+.card-title{
+    color: rgb(38, 110, 96);
+}
+#bio{
+    background-color: rgb(209, 225, 243);
 }
