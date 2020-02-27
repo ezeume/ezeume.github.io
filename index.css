@@ -15,10 +15,24 @@
     color:rgb(103, 216, 216);
 }
 
-.container {
-    background-color:white;
+.hero{
+    background-color: rgb(rgb(61, 204, 175));
 }
+/* .container {
+    background-color:rgb(160, 214, 216);
+} */
 
+.paragraph{
+    font-style: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.paragraph2{
+    font-style: Arial, sans-serif;
+    font-size:18px;
+    font-weight: bold;
+
+}
 main {
     margin-bottom:30px;
 }
@@ -35,4 +49,7 @@ main {
 }
 .subheader-text{
     text-align: center;
+}
+.card-body{
+    background-color: rgb(rgb(102, 241, 214));
 }
