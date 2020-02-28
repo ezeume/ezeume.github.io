@@ -22,13 +22,13 @@
     font-style: Arial, sans-serif;
     font-size: 20px;
     font-weight: bold;
-    color: rgb(38, 110, 96);
+    color: rgb(248, 252, 251);
 }
 .paragraph2{
     font-style: Arial, sans-serif;
     font-size:18px;
     font-weight: bold;
-    color: rgb(38, 110, 96);
+    color: rgb(250, 253, 253);
 
 }
 main {
@@ -47,14 +47,14 @@ main {
 }
 .subheader-text{
     text-align: center;
-    color: rgb(38, 110, 96);
+    color: rgb(58, 108, 245);
 }
 .card-body{
-    background-color: rgb(rgb(120, 245, 220));
+    background-color: rgb(rgb(143, 177, 209));
 }
 .card-title{
-    color: rgb(38, 110, 96);
+    color:  rgb(58, 108, 245);
 }
 #bio{
-    background-color: rgb(209, 225, 243);
+    background-color: rgb(60, 119, 196);
 }
