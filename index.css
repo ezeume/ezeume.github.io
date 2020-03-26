@@ -3,12 +3,10 @@
     color:white !important;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.nav{
-    color: moccasin;
+.nav-item{
+    color: rgb(250, 249, 246);
 }
-/* .section {
-    background-color:rgb(133, 175, 231);
-} */
+ 
 
 
 .col {
