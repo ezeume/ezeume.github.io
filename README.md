@@ -7,10 +7,11 @@ Technology used: HTML, CSS and Bootstrap.
 
 Deployed Link: ("https://www.ezeume.github.io")
 
-[Github Link ]("https://github.com/ezeume/ezeume.github.io")
+Github Link: ("https://github.com/ezeume/ezeume.github.io")
 
 ![Aboutme](aboutme.jpg)
-![Contact](contact.jpg)
 ![Project](projects.jpg)
+![Contact](contact.jpg)
+
 
 # ezeume.github.io
